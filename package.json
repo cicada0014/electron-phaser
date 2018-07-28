@@ -20,5 +20,8 @@
   "homepage": "https://github.com/cicada0014/electron-phaser#readme",
   "devDependencies": {
     "electron": "^2.0.5"
+  },
+  "dependencies": {
+    "phaser": "^3.11.0"
   }
 }
