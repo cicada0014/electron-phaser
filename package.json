@@ -1,0 +1,24 @@
+{
+  "name": "electron-phaser",
+  "version": "1.0.0",
+  "description": "일렉트론 위에 페이저를 올릴 수 있을까? 해서 시작해봅니다.",
+  "main": "./build/app.js",
+  "scripts": {
+    "start": "tsc && electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicada0014/electron-phaser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cicada0014/electron-phaser/issues"
+  },
+  "homepage": "https://github.com/cicada0014/electron-phaser#readme",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  }
+}
